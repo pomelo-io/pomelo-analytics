@@ -1,0 +1,11 @@
+{
+  "total_volume": 86650000
+  "results": [
+    {"sales": 2, volume: 199800, max: 99900, time: 1636588800000}
+  ],
+  "symbol": {
+    "token_contrac": "eosio.token",
+    "token_precision": 4,
+    "token_symbol": "EOS"
+  }
+}
