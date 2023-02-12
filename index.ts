@@ -1,6 +1,6 @@
-const fs = require('fs');
-const { Substreams, download } = require('substreams');
-const data = require('./data.json');
+import fs from 'fs';
+import { Substreams, download } from 'substreams';
+const data = JSON.parse(fs.readFileSync('./data.json', "utf-8"));
 
 // fixed parameters
 const spkg = "https://github.com/pinax-network/substreams/releases/download/atomicmarket-v0.1.0/atomicmarket-v0.1.0.spkg";
@@ -16,7 +16,7 @@ async function get_head_block_num() {
 (async () => {
     // sink parameters
     const head_block_num = await get_head_block_num();
-    const startBlockNum = Number(data?.clock?.number ?? head_block_num);
+    const startBlockNum = String(data?.clock?.number ?? head_block_num);
     const stopBlockNum = data?.clock?.number ? `+${head_block_num - Number(data?.clock?.number)}` : `+1`;
 
     // Initialize Substreams
@@ -41,12 +41,12 @@ async function get_head_block_num() {
     });
 
     substreams.on("mapOutput", output => {
-        const decoded = PrometheusOperations.fromBinary(output.data.mapOutput.value);
+        const decoded: any = PrometheusOperations.fromBinary(output.data.mapOutput.value);
         for ( const { metric, operation, name, value, labels } of decoded.toJson().operations ) {
             if ( labels.collection_name != "pomelo" ) continue;
             console.log({ metric, operation, name, value, labels })
             if ( operation == "OPERATIONS_ADD" ) {
-                const timestamp = atomicmarket.clock.timestamp.seconds;
+                const timestamp = data.clock.timestamp.seconds;
                 data.atomicmarket.total_volume += value;
                 data.atomicmarket.last_newsales.push([timestamp, value]);
             }
