@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { Substreams, download } = require('substreams');
-const atomicmarket = require('./data/atomicmarket.json');
+const data = require('./data.json');
 
 // fixed parameters
 const spkg = "https://github.com/pinax-network/substreams/releases/download/atomicmarket-v0.1.0/atomicmarket-v0.1.0.spkg";
@@ -16,8 +16,8 @@ async function get_head_block_num() {
 (async () => {
     // sink parameters
     const head_block_num = await get_head_block_num();
-    const startBlockNum = Number(atomicmarket?.clock?.number ?? head_block_num);
-    const stopBlockNum = atomicmarket?.clock?.number ? `+${head_block_num - Number(atomicmarket?.clock?.number)}` : `+1`;
+    const startBlockNum = Number(data?.clock?.number ?? head_block_num);
+    const stopBlockNum = data?.clock?.number ? `+${head_block_num - Number(data?.clock?.number)}` : `+1`;
 
     // Initialize Substreams
     const substreams = new Substreams(outputModule, {
@@ -36,8 +36,8 @@ async function get_head_block_num() {
     if ( !PrometheusOperations) throw new Error("Could not find PrometheusOperations message type");
     
     substreams.on("block", block => {
-        atomicmarket.clock = block.clock;
-        atomicmarket.last_cursor = block.cursor;
+        data.clock = block.clock;
+        data.last_cursor = block.cursor;
     });
 
     substreams.on("mapOutput", output => {
@@ -47,8 +47,8 @@ async function get_head_block_num() {
             console.log({ metric, operation, name, value, labels })
             if ( operation == "OPERATIONS_ADD" ) {
                 const timestamp = atomicmarket.clock.timestamp.seconds;
-                atomicmarket.data.total_volume += value;
-                atomicmarket.data.last_newsales.push([timestamp, value]);
+                data.atomicmarket.total_volume += value;
+                data.atomicmarket.last_newsales.push([timestamp, value]);
             }
         }
     });
@@ -57,5 +57,5 @@ async function get_head_block_num() {
     await substreams.start(modules);
 
     // save output when finished
-    fs.writeFileSync('./data/atomicmarket.json', JSON.stringify(atomicmarket, null, 2));
+    fs.writeFileSync('./data.json', JSON.stringify(data, null, 2));
 })();
