@@ -1,11 +1,21 @@
 {
-  "total_volume": 86650000
-  "results": [
-    {"sales": 2, "volume": 199800, "max": 99900, "time": 1636588800000}
-  ],
-  "symbol": {
-    "token_contrac": "eosio.token",
-    "token_precision": 4,
-    "token_symbol": "EOS"
-  }
+  "data": {
+    "collection_name": "pomelo",
+    "total_volume": 87140000,
+    "symbol": {
+      "token_contrac": "eosio.token",
+      "token_precision": 4,
+      "token_symbol": "EOS"
+    },
+    "last_newsales": []
+  },
+  "clock": {
+    "id": "11874825a4d51506149164c059979219f2589d5a0d35b5d6fc61b85f9479a486",
+    "number": "294078501",
+    "timestamp": {
+      "seconds": "1676221048",
+      "nanos": 500000000
+    }
+  },
+  "last_cursor": "FVvAv9WRGZbPgEUSrD2HOKWyLpcyBFNrVQztLxFAj4r3-HXB1Z-jUWUhbRzVkK_x2RzqTV7_3trEHXly8MFZ6tPvy7Ew6HA4EngpwYy6_eK8fvKgMQ9NeL9lVruKat7RWTXTYg3zf7EF6tTmMvTdb0A7ZcYuLGaz224EqoICc6ZH7Hc9kmr1dc3V2fyXpNZA-7EiEOapwyvxBmF-eBpZa8nXb_bKuT0hMXFn7AUd94kwzsBRUo06MYjdwXd7E_n7bxaJOm62QFvBfwnOnRIZUMpBrR3DlI4bZc3Cm-c8z7cJnQ0xhFVXR6KvBq0ZO4nNSZLMKC4="
 }
