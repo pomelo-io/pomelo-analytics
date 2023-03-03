@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 135192443,
+    "total_volume": 143473443,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -2163,16 +2163,212 @@
       [
         "1677790048",
         307000
+      ],
+      [
+        "1677797046",
+        99900
+      ],
+      [
+        "1677797046",
+        99900
+      ],
+      [
+        "1677797046",
+        99900
+      ],
+      [
+        "1677797046",
+        99900
+      ],
+      [
+        "1677797046",
+        149900
+      ],
+      [
+        "1677797046",
+        149900
+      ],
+      [
+        "1677797046",
+        199900
+      ],
+      [
+        "1677797046",
+        199900
+      ],
+      [
+        "1677797136",
+        99900
+      ],
+      [
+        "1677797136",
+        99900
+      ],
+      [
+        "1677797136",
+        99900
+      ],
+      [
+        "1677797136",
+        99900
+      ],
+      [
+        "1677797136",
+        149900
+      ],
+      [
+        "1677797136",
+        149900
+      ],
+      [
+        "1677797136",
+        199900
+      ],
+      [
+        "1677797136",
+        199900
+      ],
+      [
+        "1677797196",
+        99900
+      ],
+      [
+        "1677797196",
+        99900
+      ],
+      [
+        "1677797196",
+        99900
+      ],
+      [
+        "1677797196",
+        99900
+      ],
+      [
+        "1677797196",
+        149900
+      ],
+      [
+        "1677797196",
+        149900
+      ],
+      [
+        "1677797196",
+        199900
+      ],
+      [
+        "1677797196",
+        199900
+      ],
+      [
+        "1677797358",
+        99900
+      ],
+      [
+        "1677797358",
+        99900
+      ],
+      [
+        "1677797358",
+        99900
+      ],
+      [
+        "1677797358",
+        99900
+      ],
+      [
+        "1677797358",
+        149900
+      ],
+      [
+        "1677797358",
+        149900
+      ],
+      [
+        "1677797358",
+        199900
+      ],
+      [
+        "1677797358",
+        199900
+      ],
+      [
+        "1677797544",
+        99900
+      ],
+      [
+        "1677797544",
+        99900
+      ],
+      [
+        "1677797544",
+        99900
+      ],
+      [
+        "1677797544",
+        99900
+      ],
+      [
+        "1677797544",
+        149900
+      ],
+      [
+        "1677797544",
+        149900
+      ],
+      [
+        "1677797544",
+        199900
+      ],
+      [
+        "1677797544",
+        199900
+      ],
+      [
+        "1677800171",
+        300000
+      ],
+      [
+        "1677801882",
+        250000
+      ],
+      [
+        "1677801978",
+        250000
+      ],
+      [
+        "1677802710",
+        320000
+      ],
+      [
+        "1677802788",
+        330000
+      ],
+      [
+        "1677802806",
+        340000
+      ],
+      [
+        "1677802829",
+        305000
+      ],
+      [
+        "1677802896",
+        370000
+      ],
+      [
+        "1677807900",
+        320000
       ]
     ]
   },
   "clock": {
-    "id": "11b756c6e8af81736934e5e7bca804ca4b3353a8e0bbb5ef276df8175f05bd20",
-    "number": "297227974",
+    "id": "11b7b605923fd17ec8a7b01380a91e18e6d3a88b36e95719740cf76c4993909c",
+    "number": "297252357",
     "timestamp": {
-      "seconds": "1677796301",
-      "nanos": 500000000
+      "seconds": "1677809099",
+      "nanos": 0
     }
   },
-  "last_cursor": "RJhlLmE-haWUHyMHkdcbQqWyLpcyBFNoVwniIxZFj4r3onXA286gVWkkPhXRl6r21BbvHl_52Y2eRXZ79pMBuIPpwL1nvCltRil-wYy7rbbofqekMQscdO1iWrjaYNjRWTXQYAjzerAA6tTmaPTcYRdjY5IvLWK22jgCpoYHIacZvSZjw2r_dZuD1__C89cS9uZ2RuP1k3_wBmF0KR1aaJmBbvuXvG0hM3Zn7AUe9Yw_ycBcUo06a4jcwispRaSvZkCJbWu6QAzGLw6SnUcRVJ1Gr0jGwI0ZbZ-VyrA6z-VYnAdqh11RSKSpVPoea9rIGJPIeX4="
+  "last_cursor": "LhPAIpiz5clm0iOfVvlnpaWyLpcyBFNoVw7nKRRGj4r3onWX252jCWN2PknRl_yj1UTsGVqt3dfNRXd6p8FY6de-wOls5XM7QC4llo7v8rPreKCkPgxIdbJrXOOOa4vRWTXQYA_5frMD6tTmaPSLYUY1YZVwLWKziGpY9IdUc_ZA73A9xDX6Is2E1KrA8YES-eB3QbWpxnqnB2creUsPNMmCb_SZuTspZiRn7AUe9Ys6z85cUo06a4iLw3QtEK3-bkKOYGfhQlWULwiSn0BJBZtB-x3GwIkaMZnGzuY5meANkAJujF9TRvP_B6hIP9-dE56ce38="
 }
