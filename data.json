@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 153505925,
+    "total_volume": 153894425,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -2743,16 +2743,76 @@
       [
         "1677969855",
         180000
+      ],
+      [
+        "1677981136",
+        25900
+      ],
+      [
+        "1677981153",
+        25900
+      ],
+      [
+        "1677981174",
+        25900
+      ],
+      [
+        "1677981186",
+        25900
+      ],
+      [
+        "1677981196",
+        25900
+      ],
+      [
+        "1677981207",
+        25900
+      ],
+      [
+        "1677981218",
+        25900
+      ],
+      [
+        "1677981230",
+        25900
+      ],
+      [
+        "1677981245",
+        25900
+      ],
+      [
+        "1677981258",
+        25900
+      ],
+      [
+        "1677981355",
+        25900
+      ],
+      [
+        "1677981383",
+        25900
+      ],
+      [
+        "1677981394",
+        25900
+      ],
+      [
+        "1677981406",
+        25900
+      ],
+      [
+        "1677981423",
+        25900
       ]
     ]
   },
   "clock": {
-    "id": "11bcd269bd47f5764e8545e78f2cfa551824a3c4708acf990aaadf71aacb1c75",
-    "number": "297587305",
+    "id": "11bd0d7fd4b941bfcd6c071937e14280d698fc291d4e91a7f609e89448f0c077",
+    "number": "297602431",
     "timestamp": {
-      "seconds": "1677977173",
+      "seconds": "1677984736",
       "nanos": 0
     }
   },
-  "last_cursor": "sRdcuaBkPCQ0ss1TSPZFiKWyLpcyBFNoUAPiKRFEj4r3oiGR35uvUjVxb0vVl6_0iB3uT1_52debFi0to8VVvdnox-lnviU_RnN9wN_n8rS-KaKmbw0aIOoxDevdZd3RWTXQZwL8ebQB6tTmaKCNZUs1NMF0LmTgiT1TpI0Bd6JF7CcwlT-sdc2G2K3HoIcX9ud3Q7fwk33xDzArfh0Oa8uHbvOduTkmbCFn7AUe8oY_z8VeUo06a9yNxid6Rq_-YUaLOWa2Fl_FfQKdnRIcVstC_xfHlI0bZ82XyLQ0zOZfzwduhV9eR6GrV_QSP9iaGZ3Oe34="
+  "last_cursor": "P2mNci4dz8aHKfVl365mRaWyLpcyBFNoUwvnLhJAj4r3oibFiZrwVGUnYRnRwv-jiRO4S12t19zKQX9_8MhQ6Nfjy-437yg5En95moi__OLpePqnMQMfdbM0X7mOZd_RWTXQZAr5frQE6tTmaKfZM0s0M84vJG-6iTxYpYVRcvYQvHNglzioesvW1KqUp4BCq-R2Q-2hlCKqAz0vKx5fbM6FZfCb7WpyZnRn7AUe8Y46zsVaUo06a9vZlCYpHa35Y0Lba2vjQAyWfwqfmBYdBJlG-hyQkt5LMZzCz7c4zOJbyFU5hwxeTKT6WvQdbo_MGs-aLnc="
 }
