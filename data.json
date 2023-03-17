@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 181782069,
+    "total_volume": 182317069,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -4723,16 +4723,84 @@
       [
         "1679016516",
         60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679021235",
+        60000
+      ],
+      [
+        "1679022048",
+        11500
+      ],
+      [
+        "1679022110",
+        11500
+      ],
+      [
+        "1679022128",
+        11500
+      ],
+      [
+        "1679022148",
+        11500
+      ],
+      [
+        "1679022334",
+        11500
+      ],
+      [
+        "1679022353",
+        11500
+      ],
+      [
+        "1679022373",
+        11500
+      ],
+      [
+        "1679022390",
+        11500
+      ],
+      [
+        "1679022620",
+        11500
+      ],
+      [
+        "1679022642",
+        11500
       ]
     ]
   },
   "clock": {
-    "id": "11dcabd2f47f54f0b9501784dc9c9a9dbc8f868d1916ec01ec5860f45ebf7684",
-    "number": "299674578",
+    "id": "11dce0aa583afe93f37a9640e43aa1f237ae5e554ecd286422194e26f3537ada",
+    "number": "299688106",
     "timestamp": {
-      "seconds": "1679020832",
-      "nanos": 500000000
+      "seconds": "1679027597",
+      "nanos": 0
     }
   },
-  "last_cursor": "DAKZlOPKWrHfp-je7ZeM96WyLpcyBFNmUwzhLxZJj4r3pCGUj8mkVmVyPhjUxqmi1BDrSl2k2oueHS1yo8kE7oLilbBi5XU5T3oqxtru-uG8ffv0OVwfdO4wCe2IatzRWTXeZA3_fLMA6tTmbqCINRRhYJEueDPn2mlWoo1RIqoYsXM2lj_6J8ja2a3C9NQQ-OclTOzzln71AzF7fhoLPczRMaaevzR0ZSRn7AUQ8Yk8zc9cUo06bdyIlnMrFqT-NhWLb2-6FwuUf17PzksZA80Q-BfHkopPNM3HzOVuzrdbywA801RRS_aqB_0cOt-ZE8jMeng="
+  "last_cursor": "ZZrdfx7GijutZLWxDPhuA6WyLpcyBFNmUwPtKxFHj4r3pCGQ3cz3BWl2OUuFmaqm3hK6Qlyo3orJFy8q85ZSv9a7lr0x6CQ8Eyh4kYHo_7btefr2bAgdJ7hnXO3fNonRWTXeZALze7UB6tTmbqCMZxFmN5EjJGe12z1U841SJfYVuic2lmisIJmAhfiRoIdBq7YiFrLzwX_1VTZ1eR4PPJ2KNaTKvjxzMXFn7AUQ8YY_x8dfUo06bdyNkSUuRfn6ZxbaaG67RFSUKQKckkROXp8XqEjGldQaZcvHm7Fvmr0Kz1I_hV9WG6SuVPweP9uaGMjKfno="
 }
