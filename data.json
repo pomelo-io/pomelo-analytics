@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 182458069,
+    "total_volume": 182988969,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -4823,16 +4823,72 @@
       [
         "1679032621",
         24000
+      ],
+      [
+        "1679036153",
+        13000
+      ],
+      [
+        "1679036169",
+        13000
+      ],
+      [
+        "1679036208",
+        13000
+      ],
+      [
+        "1679036327",
+        125000
+      ],
+      [
+        "1679036346",
+        125000
+      ],
+      [
+        "1679036374",
+        149900
+      ],
+      [
+        "1679036424",
+        11500
+      ],
+      [
+        "1679036448",
+        11500
+      ],
+      [
+        "1679036466",
+        11500
+      ],
+      [
+        "1679036480",
+        11500
+      ],
+      [
+        "1679036497",
+        11500
+      ],
+      [
+        "1679036510",
+        11500
+      ],
+      [
+        "1679036526",
+        11500
+      ],
+      [
+        "1679036544",
+        11500
       ]
     ]
   },
   "clock": {
-    "id": "11dd18a26635b41d916a41e4927418e7245adb84346f4ef14a4995681fcd6363",
-    "number": "299702434",
+    "id": "11dd512b7054a358eac1b93a787b6fd3f8942b9e5c2766c25d917a4548547ad7",
+    "number": "299716907",
     "timestamp": {
-      "seconds": "1679034761",
-      "nanos": 0
+      "seconds": "1679041997",
+      "nanos": 500000000
     }
   },
-  "last_cursor": "mEfeeaxSUFhCvRKAphzkdqWyLpcyBFNmUgvnLhJFj4r3pCbE1cykBmd2bU_Ukf353BO6T1v52tbPE3p6-pVXvtXvkuw25SU7Qn16l9y4-rC-fPr7PAwTcO0xC-yNZNvRWTXeZQr5frcH6tTmbqfYbxExNMMiejS0iDcCp4cBI6MR6iEzkmquJZ2B16-VpIRG-eEtQe2plH-hAjN_fUtYPJ6FY_rMvTUlMCBn7AUQ8I46zsRdUo06bdvYwCV_Ffz4ZEKAPG7jEAiVLl-en0BNUcwTqRaTltkcbcvGnrE1z7VbkQM7hV5UGferW6oZPN2dG5qdK3g="
+  "last_cursor": "XI2W5L8hWx8T2RhpBmrkU6WyLpcyBFNmUgrjIxFGj4r3pCbA3J_0B2FwbEzTlaGljEbqGVOvj9jFEyx9pJRT6tnjx7o25HQ9FXkrlY-9-bG7cfL1aA4edbNnW-3fNt_RWTXeZQv9c7UF6tTmbqfcZkczNpEiejWwhjdXq9EFJPBDvHNhkT-oJ57W06jHp4EQruomQ7XznHqiVmB5KBpYO8nWM6HKuW90Y3Bn7AUQ8I8-ycZRUo06bdvcxyIqHar7YhLaYWzhFV2WKA7PzkYdUpwW-0uXxIkcZMrGneRpz-cMkQM_hwxVRqajUK5Iad7NG5jJLH8="
 }
