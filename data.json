@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 185089969,
+    "total_volume": 186089869,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -4931,16 +4931,132 @@
       [
         "1679100268",
         11000
+      ],
+      [
+        "1679100332",
+        11000
+      ],
+      [
+        "1679100354",
+        11000
+      ],
+      [
+        "1679100382",
+        11000
+      ],
+      [
+        "1679100426",
+        12000
+      ],
+      [
+        "1679100440",
+        12000
+      ],
+      [
+        "1679100465",
+        12000
+      ],
+      [
+        "1679100498",
+        12000
+      ],
+      [
+        "1679104572",
+        9000
+      ],
+      [
+        "1679104590",
+        9000
+      ],
+      [
+        "1679104632",
+        9800
+      ],
+      [
+        "1679104647",
+        9800
+      ],
+      [
+        "1679104666",
+        9800
+      ],
+      [
+        "1679104690",
+        9800
+      ],
+      [
+        "1679104724",
+        11500
+      ],
+      [
+        "1679104740",
+        11500
+      ],
+      [
+        "1679104773",
+        60000
+      ],
+      [
+        "1679104810",
+        59900
+      ],
+      [
+        "1679104836",
+        59900
+      ],
+      [
+        "1679104868",
+        59900
+      ],
+      [
+        "1679104896",
+        59900
+      ],
+      [
+        "1679104910",
+        59900
+      ],
+      [
+        "1679104933",
+        59900
+      ],
+      [
+        "1679104950",
+        59900
+      ],
+      [
+        "1679104968",
+        59900
+      ],
+      [
+        "1679104987",
+        59900
+      ],
+      [
+        "1679105004",
+        59900
+      ],
+      [
+        "1679105028",
+        59900
+      ],
+      [
+        "1679105050",
+        59900
+      ],
+      [
+        "1679105078",
+        59900
       ]
     ]
   },
   "clock": {
-    "id": "11df187b78e84ae4a1a3558923b745eab49382ee87e394f94e39db99eaaaab27",
-    "number": "299833467",
+    "id": "11df4eb71642e6693c664ef72d5cdb03e5bb0eb2f4ef1ab397e162f09ec089bb",
+    "number": "299847351",
     "timestamp": {
-      "seconds": "1679100279",
+      "seconds": "1679107221",
       "nanos": 500000000
     }
   },
-  "last_cursor": "4pwF8NmcvkswWngdxqMDXKWyLpcyBFNmXQjmLhdGj4r3pCTE1Zr0B2kgYBmBxa2h3EToTl-k193ORnl_95UB7tXjwLBmuHQwQS4vmo248rC6e_qmawMSJOozDrvcYN_RWTXeagn4f7IE6tTmbqXYbxBnMcByJWG1jzYB89cFJfAZ7CBkxTX9IsnR0PzH-dQU-bQhQbGlkiylAWYrfRpbb5qKM_vKvzkkY3Rn7AUQ_407zcdfUo06bdnYwCV_F67_YUaIbme1EA-VLV-Yk0tNX5gT_BvDx4kUYZ-Ry-1vnbBXy1ZrhQxST_L5Aqoea9maGpifLy4="
+  "last_cursor": "L9F22ijrA_LG-M_RZRo4KKWyLpcyBFNmXQ_iKRRAj4r3pCTBiM-hAWdxakjWlqDzjhPtTw_62d2ZES0voMBT6dS4kbgxvyNuQi56kti8-L3oLfL0O1wbeO4xX-KHMIrRWTXeag78frAC6tTmbqXdMhQ2McR1KTCy2mlSpYBcJaAZsXsykTT7c8ja0PPA8IBB_7ctEOeplSmgDjV-LkoIaczWM_Wf7WlyM3Fn7AUQ_4o_z8BRUo06bdndk3N_Hfn-ZheNYDq0SgyWKV_NnEYcBZ1Hqh3Bk90dYJnFyeZuwuUMngBqjQ4CTPWsV_0bPNjOHc7NL3w="
 }
