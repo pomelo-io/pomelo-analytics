@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 202136863,
+    "total_volume": 202369663,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -5455,16 +5455,64 @@
       [
         "1679698306",
         170000
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
+      ],
+      [
+        "1679709606",
+        19400
       ]
     ]
   },
   "clock": {
-    "id": "11f18b64c2276d2bd95b79005bf463252bfc3219662d75487d45e45ccb69dd3b",
-    "number": "301042532",
+    "id": "11f1c00035644bc296b7c31e43343fc618f5bbcd692c176ab0eb9a64c41e13b9",
+    "number": "301056000",
     "timestamp": {
-      "seconds": "1679705081",
+      "seconds": "1679711815",
       "nanos": 500000000
     }
   },
-  "last_cursor": "pbR5ICShcA2qxuWTPPj-wqWyLpcyBVpuVQ_nLxJDj4r3pnPNj5uiU2N3bxuEkvuk1BC5TFOs3tqfQnp98cJVvoO8kLtm7Cg-QHl4lIzq87O7fPanPQ9IIulkVr7aYYrRWDzWYg75f7cF6tTmbPLRNUo3NsAuL2K23m4Bqo0AIqJFuCVmljv1d8nW0aiW99BDrOolRbakw3rxVDQuJEcPNciHY_HOvm4hMXZn7QwY94o6zcRaUo06b47RliFwFvv4YErZaDywRAmTKQ2fkhceVJkW_R6Vw49MYpmSmeI1yLNXmw07hFkBT_b4BvpKatzOTcmbLns="
+  "last_cursor": "EcYLGtPosJPmI6hsZKQZNqWyLpcyBVpuVQ7jKhFBj4r3pnOW3Z2mA2RzbBmCw6v520fsGFmti9vOF3p4pJNWvdm8xuo2vnU-T3l_ko7oqubvLaH7aAwfIr9jCuuNMNHRWDzWYg_9erMH6tTmbPKKZ0NgN5R3eDDi3jtXpddVcaEU6nFhw2n-Jcnb2PyR8ItCq7AkQOD3kH_1VmR6KUYIa83UZ6PNtzQgYyFn7QwY94s9yc5eUo06b46LknZ4FauqZ0LaPGbkRgjAewjOm0UQV5lA_0ubl9pLbJCSnuRuzLcMzFA_01gFRvX_V_5KPYieE8ycfXg="
 }
