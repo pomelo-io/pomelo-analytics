@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 205717363,
+    "total_volume": 207213863,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -5627,16 +5627,52 @@
       [
         "1679869332",
         170000
+      ],
+      [
+        "1679893900",
+        135000
+      ],
+      [
+        "1679893929",
+        145000
+      ],
+      [
+        "1679893995",
+        138000
+      ],
+      [
+        "1679894020",
+        141000
+      ],
+      [
+        "1679894056",
+        187500
+      ],
+      [
+        "1679894076",
+        187500
+      ],
+      [
+        "1679894090",
+        187500
+      ],
+      [
+        "1679894106",
+        187500
+      ],
+      [
+        "1679894124",
+        187500
       ]
     ]
   },
   "clock": {
-    "id": "11f73c2b50bf5bc14e3df08dc911bf32fd06a125b5693680ab5ab0769c041687",
-    "number": "301415467",
+    "id": "11f7749fa897ff949dfedae7942912e107cd25899431d1b16414c6eaa413540b",
+    "number": "301429919",
     "timestamp": {
-      "seconds": "1679891550",
+      "seconds": "1679898776",
       "nanos": 500000000
     }
   },
-  "last_cursor": "aNpbtXFe0ZkSOpNdH5sqOKWyLpcyBVpuUQrgLhdGj4r3pnXGjp_0BWEnPhiCw6j0iBa_HVqkiozEFX8ppMNS6oXqxell7yRqQ30lkI_m--W9faKgOQ0deOhiW-uIat_RWDzWZgv-f7AF6tTmbPTaNEdgMMUhKzTiiW5Y8NBVdKUT73Myljv_Ic_a0qiRpYNCrOUiEuPwxnihAjB4fU4OaJiGMfDLtzh2MXNn7QwY8489zs9RUo06b4jalSN9F_n_NUPbamiwRguTKQjPnkFKA8kT-xvAkNkeZ5qRm-FvyLMOnVIwjFVfSf6qVPUbb9rOGJzMISw="
+  "last_cursor": "DaFWTS-NVx7-QCe3BFGH7aWyLpcyBVpuUQnsIxBIj4r3pnXC2ZTwUWl8b0uGma35iUO-Hwv52dbJFnd68JVRvNa5l7ph5SgxQngtx4i8-rLrefehP19KIL9jXO-KYorRWDzWZgjyc7QG6tTmbPTeYxE2ZcB0LDfl3j9Up4dRd6QT63pmxGj1c5vT1qnF-dAT_utxR-GlkiylBDEoek1SbMmANfSXuDspZnVn7QwY84wxycVdUo06b4jexCVxE67yNUKBYDqxR1-TLlqTmEceA5lC-xbDx9sZMMyTxuY4nr1ezVY81F1UTKGtVq4eP43LTsjJL34="
 }
