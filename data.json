@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 224919050,
+    "total_volume": 226201862,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -6199,16 +6199,64 @@
       [
         "1680458156",
         160000
+      ],
+      [
+        "1680461232",
+        150000
+      ],
+      [
+        "1680461232",
+        160000
+      ],
+      [
+        "1680461232",
+        160000
+      ],
+      [
+        "1680462240",
+        28215
+      ],
+      [
+        "1680462240",
+        25394
+      ],
+      [
+        "1680462240",
+        30566
+      ],
+      [
+        "1680462240",
+        37620
+      ],
+      [
+        "1680462240",
+        188100
+      ],
+      [
+        "1680462240",
+        32917
+      ],
+      [
+        "1680466950",
+        150000
+      ],
+      [
+        "1680466950",
+        160000
+      ],
+      [
+        "1680466950",
+        160000
       ]
     ]
   },
   "clock": {
-    "id": "12089670b8118e452d73663cb0789455ff596fd0ad68f3d22093b89d83855db9",
-    "number": "302552688",
+    "id": "1208ceb277f6a2090e7ab110c2d28fcf7c50c5181fb6c61210f21b1bf607c2f0",
+    "number": "302567090",
     "timestamp": {
-      "seconds": "1680460231",
+      "seconds": "1680467432",
       "nanos": 0
     }
   },
-  "last_cursor": "-QUGrVbdAY86Seu0A4U_FKWyLpcyBVptUA7nLBlJj4r08HrM25qmUml0aRWFlKzyiRLoTVyvjY3NE3Zy9sVV6ofvyr4yuSFpEn0kxYq6-bbvcfCgMQNPebhqWu_aMNHRWDzVZw_5fbAH6tTlOvvQYUpmZ8EkLDex3T5So4BQd6RC7HUwxD30e8bT1qnF-INBruYsRbDzkSKhUWN1JU4OO8vRNPLOvmkjMX1n7Qwb8os6zM9dUo05OYfQwiZ5FK36bkeBbG23Q1iQLwiYmkcYVMtB-x-alY4VZZGSmrA7n7MOnAc6114CS_KuBfUbatKYE8idKX8="
+  "last_cursor": "nua0xludm8t3dlMzNpNM86WyLpcyBVptUA3iKhhBj4r08HqWiM-kB2YjbkzSkKDwiBK6GVut3ozPQHxzpJMGu4Lvw-th7Ck5ECkqwI_v-bXvLvHzawtJJ71iWLmMNNjRWDzVZwz8e7AI6tTlOvuKMhFnZMcnKmS03GwBo4RUdKMU6nRklzWsIpnR16nE8tYQrrZ3TezywS-lBjV5ehxaPcyAZPGbtj4oZXVn7Qwb8og-yM9dUo05OYeKkyp5F6ivZxWLaWuwQF3BKQ_PkkRMU8sWqBnAxI4VZ5zCzeU_yrdfzQQ6gl4GGfWoBf4baY2aHMjNL3g="
 }
