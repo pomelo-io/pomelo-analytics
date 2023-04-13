@@ -1,7 +1,7 @@
 {
   "atomicmarket": {
     "collection_name": "pomelo",
-    "total_volume": 255298540,
+    "total_volume": 257938540,
     "symbol": {
       "token_contrac": "eosio.token",
       "token_precision": 4,
@@ -7087,16 +7087,88 @@
       [
         "1681394255",
         150000
+      ],
+      [
+        "1681404252",
+        140000
+      ],
+      [
+        "1681404252",
+        150000
+      ],
+      [
+        "1681404252",
+        150000
+      ],
+      [
+        "1681407942",
+        140000
+      ],
+      [
+        "1681407942",
+        150000
+      ],
+      [
+        "1681407942",
+        150000
+      ],
+      [
+        "1681411725",
+        140000
+      ],
+      [
+        "1681411725",
+        150000
+      ],
+      [
+        "1681411725",
+        150000
+      ],
+      [
+        "1681415718",
+        140000
+      ],
+      [
+        "1681415718",
+        150000
+      ],
+      [
+        "1681415718",
+        150000
+      ],
+      [
+        "1681421262",
+        140000
+      ],
+      [
+        "1681421262",
+        150000
+      ],
+      [
+        "1681421262",
+        150000
+      ],
+      [
+        "1681423786",
+        140000
+      ],
+      [
+        "1681423786",
+        150000
+      ],
+      [
+        "1681423786",
+        150000
       ]
     ]
   },
   "clock": {
-    "id": "1225640435b30cfa1bb806607c2c9d8931aa6601a3143491cefbc0fb444c958a",
-    "number": "304440324",
+    "id": "1226077c2542d626fd40930fd907fad9268b736ae5d42c32ad17db690f49d1b3",
+    "number": "304482172",
     "timestamp": {
-      "seconds": "1681404139",
+      "seconds": "1681425063",
       "nanos": 500000000
     }
   },
-  "last_cursor": "u1Lv4Pst8v8vryorEJbIrqWyLpcyBVprUQ_lKRNFj4r08nfD2Z2iA2Qnax2Dxvjxj0fjS1yq3tieFi1ypshZv9C7kr5i7SBpRXookI3n-ue6LqGhOVxJdb9mDOOLaonRWDzTZg77ebgB6tTlOPbfY0Y1YM4jKze1iWtW8IJdc_YSsXZmlz-od5rX0fqU8YoS-eItQLKhnS7xDzV-KB0Pa5-HbvCcvT8jNCBn7Qwd84o4z8JeUo05O4rfxXRwEfiuMhWNbWjhR17GLQ2byUJNUc4R_EqWkYgdZZrAmuE0yeFfnVA_gF9XTKaqUKpKOtjIEpybKH8="
+  "last_cursor": "rZuyTSNnoOGnKIdusXR8cKWyLpcyBVprUQPnKxZDj4r08nTF2pr1AmRxaknWkq-miRHrQlmsiIvEFHkto5RZvtfikb9n63BtQy8okdrt-eW7efSmawwSce1mVr6PMNvRWDzTZgL5eLUB6tTlOPXZYBEza5J1KjPniWxXoYxcIqEQvHY2wTn0cpnQgqqV8tcU9-B2R7Xwli2jVjAuLEleP8TTNvDK7Tl2YHBn7Qwd84Y5xsZaUo05O4nZwSVwE6yqZBKMbmbkSwyTLguTzkceVMpH_BiVx94cMM7GnLE6yOddzw1pgFlWGqL5UvgebY_CGpvPfnk="
 }
