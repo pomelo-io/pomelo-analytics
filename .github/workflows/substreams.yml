@@ -3,7 +3,7 @@ name: Substreams
 on:
   schedule:
     # every 2 hours
-    - cron: "30 */2 * * *"
+#     - cron: "30 */2 * * *"
   workflow_dispatch:
 
 jobs:
